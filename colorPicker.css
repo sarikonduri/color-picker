@@ -1,0 +1,65 @@
+/* Write CSS here */
+
+.header{
+  color: #008B8B;
+}
+
+.sub-header{
+  color: #FF7F50;
+  font-style: italic;
+}
+
+.color-container{
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  border-style: none;
+  align-content: space-around;
+  
+}
+
+.select{
+  border: 1px solid;
+  border-radius: 30px;
+}
+
+.color-box{
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  border: 1px;
+  border-radius: 20px;
+  margin: 7px;
+}
+
+.color-voilet{
+  background-color: #EE82EE;
+}
+
+.color-yellow{
+  background-color: #FFFF00;
+}
+
+.color-green{
+  background-color: #008000;
+}
+
+.color-blue{
+  background-color: #0000FF;
+}
+
+.color-red{
+  background-color: red;
+}
+
+.color-orange{
+  background-color: #FFA500;
+}
+
+.color-purple{
+  background-color: #800080;
+}
+
+.color-grey{
+  background-color: grey;
+}
